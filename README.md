@@ -1,7 +1,8 @@
-<h1> Bootstrap Odevi/<h1>
+<h1> Bootstrap Odevi</h1>
  
 
- Bootstrap Kütüphanesi Kullanıld 
+ Bootstrap Kütüphanesi Kullanıldı 
+ 
  <h2> Ekran gifi/<h2>
 
- ![] (screen.gif.mp4)
+ ![](screen.gif)
