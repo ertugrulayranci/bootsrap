@@ -3,6 +3,6 @@
 
  Bootstrap Kütüphanesi Kullanıldı 
  
- <h2> Ekran gifi/<h2>
+ <h2> Ekran gifi</h2>
 
  ![](screen.gif)
