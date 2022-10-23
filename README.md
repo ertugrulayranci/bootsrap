@@ -1,9 +1,7 @@
-<h1> Bootstrap Odevi/<>
- Boootstrap ile web sayfası tasarımı
-
- <h2>Bootstrap Kütüphanesi Kullanıld
+<h1> Bootstrap Odevi/<h1>
  
- /<>
- <h2> Ekran gifi/<>
 
- ![] (screen.gif)
+ Bootstrap Kütüphanesi Kullanıld 
+ <h2> Ekran gifi/<h2>
+
+ ![] (screen.gif.mp4)
